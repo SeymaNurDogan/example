@@ -1,0 +1,24 @@
+﻿{"Oturma Grupları":[
+	{
+		"id": 1,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk1",
+		"fiyat": 7500
+	},{
+		"id": 2,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk2",
+		"fiyat": 7850
+	},{
+		"id": 3,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk3",
+		"fiyat": 6300
+	},{
+		"id": 4,
+		"group": "Koltuk Takımları",
+		"name": "Koltuk4",
+		"fiyat": 8400
+	}
+	]
+}
