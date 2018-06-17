@@ -2,12 +2,12 @@
 	{
 		"id": 1,
 		"group": "Koltuk Takımları",
-		"name": "Koltuk1",
+		"name": "Koltuk",
 		"fiyat": 7500
 	},{
 		"id": 2,
 		"group": "Koltuk Takımları",
-		"name": "Koltuk2",
+		"name": "L Koltuk",
 		"fiyat": 7850
 	},{
 		"id": 3,
