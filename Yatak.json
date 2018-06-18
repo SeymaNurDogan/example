@@ -1,1 +1,4 @@
-{"Mobilya":[{"id": 1,"group": "Yatak Odası","name1": "Yatak","fiyat1": 4000,"name2": "Tek Kişilik Yatak","fiyat2": 2700,"name3": "Çift Kişilik Yatak","fiyat3": 6300,"name4": "Beşik","fiyat4": 2100}]}
+{"Mobilya":[{"id": 1,"group": "Yatak Odası","name1": "Yatak","fiyat1": 4000,"image1":"https://images-eu.ssl-images-amazon.com/images/I/31MnYMMXw8L._SL500_AC_SS350_.jpg",
+             "name2": "Tek Kişilik Yatak","fiyat2": 2700,"image2":"https://images-na.ssl-images-amazon.com/images/I/41-w0O9KJPL._SL500_AC_SS350_.jpg",
+             "name3": "Çift Kişilik Yatak","fiyat3": 6300,"image3":"https://images-na.ssl-images-amazon.com/images/I/41GU7cDwjaL._SL500_AC_SS350_.jpg",
+             "name4": "Beşik","fiyat4": 2100,"image4":"https://www.bebefix.com/Uploads/UrunResimleri/pierre-cardin-deco-ahsap-besik-60x120-na-a375.jpg"}]}
