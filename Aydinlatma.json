@@ -1,1 +1,4 @@
-{"Mobilya":[{"id": 1,"group": "Aydınlatma","name1": "Lambader","fiyat1": 240,"name2": "Sarkıt Avize","fiyat2": 225,"name3": "Masa Lambası","fiyat3": 70,"name4": "Abajur","fiyat4": 140}]}
+{"Mobilya":[{"id": 1,"group": "Aydınlatma","name1": "Lambader","fiyat1": 240, "image": "http://www.morevdesign.com/Content/UserFiles/Product/Small/modern-lambader-pio-m0435002-95x71.jpg",
+             "name2": "Sarkıt Avize","fiyat2": 225,"image":"http://www.tamled.com/Uploads/UrunResimleri/91d87fe3-c126-46ca-b456-e7a608930a61.jpg",
+             "name3": "Masa Lambası","fiyat3": 70,"image":"http://www.moiralighting.com/wp-content/uploads/2017/04/ML022-2-350x350.jpg",
+             "name4": "Abajur","fiyat4": 140, "image":"http://www7.cikisglobal.today/storage-2/Modern-basit-siyah-beyaz-abajur-ile-ayakta-lamba-10-w-e27-led-ampul-yatak-odas%C4%B1-oturma-odas%C4%B1-zemin-okuma-lambas%C4%B1-yeni-var%C4%B1%C5%9F-2017_pics-35382.jpeg"}]}
